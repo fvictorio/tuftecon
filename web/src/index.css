@@ -1,0 +1,13 @@
+body {
+  background-color: #eee;
+}
+
+select {
+  box-shadow: 0 0 0 2px rgba(0,150,191,.67);
+}
+
+.d3-tip {
+  border: solid 1px gray;
+  padding: 5px;
+  background-color: white;
+}
